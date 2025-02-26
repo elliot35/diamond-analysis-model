@@ -23,8 +23,8 @@ The system consists of:
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/diamond-classification.git
-cd diamond-classification
+git clone https://github.com/elliot35/diamond-analysis-model.git
+cd diamond-analysis-model
 
 2. Install dependencies:
 bash
